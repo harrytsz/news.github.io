@@ -48,7 +48,7 @@
 退出“关于我”的页面后，选择进入新闻推荐系统。
 
 ![](https://img.harrytsz.com/blog202203231557744.gif)
-![](http://picstore.harrytsz.com/20260119022353117.png)
+![](http://picstore.harrytsz.com/chrome-capture-2026-01-19-0.gif)
 
 #### 新闻网站主页
 通过人脸识别或者用户名密码任意方式登陆成功后，系统会自动识别用户身份信息，新闻网站主页“为你推荐”模块会根据用户历史浏览记录推荐给用户可能感兴趣的新闻。
