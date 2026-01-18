@@ -35,17 +35,14 @@
 
 主要的技术分享平台
 
-![](https://img.harrytsz.com/blog202203231523288.gif)
 ![](https://imgstore.harrytsz.com/chrome-capture-2026-01-19-22.gif)
 
 开发者个人技能
 
-![](https://img.harrytsz.com/blog202203231524486.gif)
 ![](https://imgstore.harrytsz.com/chrome-capture-2026-01-19-23.gif)
 
 退出“关于我”的页面后，选择进入新闻推荐系统。
 
-![](https://img.harrytsz.com/blog202203231557744.gif)
 ![](https://imgstore.harrytsz.com/chrome-capture-2026-01-19-24.gif)
 
 #### 新闻网站主页
