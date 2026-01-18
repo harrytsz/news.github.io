@@ -30,7 +30,7 @@
 
 导航菜单页面是使用 Cocos Creator 游戏开发引擎制作的具有动画效果和交互操作的页面，开发的目的是为了增强新闻系统的前端 UI 显示效果，毕竟绝大部分用户都是“颜值控”。如果一个系统的 UI 设计的不够美观，会极大地削弱推荐算法的效果。未来我想尝试着去做一个沉浸式的信息流平台，把玩游戏的体验带到信息流系统中来。
 
-![](http://picstore.harrytsz.com/chrome-capture-2026-01-19-1.gif)
+![](https://imgstore.harrytsz.com/chrome-capture-2026-01-19-21.gif)
 
 
 主要的技术分享平台
