@@ -43,7 +43,7 @@
 开发者个人技能
 
 ![](https://img.harrytsz.com/blog202203231524486.gif)
-![](http://picstore.harrytsz.com/20260119022332831.png)
+![](http://picstore.harrytsz.com/chrome-capture-2026-01-19-11.gif)
 
 退出“关于我”的页面后，选择进入新闻推荐系统。
 
